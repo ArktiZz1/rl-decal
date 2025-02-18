@@ -1,0 +1,13 @@
+{
+    "princess robot bubblegum oct": {
+		"BodyID": 23,
+		"SkinID": 0,
+		"Chassis": {
+			"Diffuse": "princess robot bubblegum3.png"
+		},
+		"Body": {
+			"Diffuse": "princess robot bubblegum2.png",
+			"Skin": "princess robot bubblegum.png"
+		}
+    }
+}

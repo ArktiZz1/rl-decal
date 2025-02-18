@@ -1,0 +1,13 @@
+{
+    "Dominus bubblegum": {
+		"BodyID": 403,
+		"SkinID": 0,
+		"Chassis": {
+			"Diffuse": "Dominus/Dominus_Chassis500.png"
+		},
+		"Body": {
+			"Diffuse": "Dominus/Dominus_Diffuse500.png",
+			"Skin": "Dominus/Dom_Skin500.png"
+		}
+    }
+}

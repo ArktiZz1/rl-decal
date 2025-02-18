@@ -1,0 +1,13 @@
+{
+    "Fennec": {
+		"BodyID": 4284,
+		"SkinID": 0,
+		"Chassis": {
+			"Diffuse": "princess robbot bubblegum2.png"
+		},
+		"Body": {
+			"Diffuse": "princess robbot bubblegum1.png",
+			"Skin": "princess robbot bubblegum.png"
+		}
+    }
+}
